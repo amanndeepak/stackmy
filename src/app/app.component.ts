@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
     firebase.initializeApp({
       apiKey: "AIzaSyARrCLuCZQGfSHzrls02vzTiqXBu6q2CKE",
       authDomain: "angular-authentication-9b322.firebaseapp.com",
-      databaseURL: "https://angular-authentication-9b322.firebaseio.com",
+      databaseURL: "stackmybiz-test-default-rtdb.firebaseio.com",
       projectId: "stackmybiz-test",
       storageBucket: "stackmybiz-test.appspot.com",
       messagingSenderId: "G-T4BGFKNMZW"
